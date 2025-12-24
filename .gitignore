@@ -416,3 +416,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Bonus & Referral Logic
+ReferralBonusHandler.cs
+BonusService.cs
+BonusCalculator.cs
+
+# Config
+appsettings.json
+appsettings.Development.json
